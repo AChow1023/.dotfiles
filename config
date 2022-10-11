@@ -1,0 +1,2 @@
+git config --blobal user.name Andy Chow
+git config --global user.email andychow180@gmail.com
